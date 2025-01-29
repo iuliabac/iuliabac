@@ -1,5 +1,5 @@
 Hi, helau, buna I'm Iulia.
-I'm a international student in the Nederlands beacuse I choose this path.
+I'm am international student in the Nederlands beacuse I choose this path.
 I'm romanian: I have a good knowledge in manele and sarmale.
 I speak english, romanian, french, italian and dutch.
 I like data, data maybe likes me.
