@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @iuliabac
-- 👀 I’m interested in interesting things
-- 🌱 I’m currently learning learning materials
-- 💞️ I’m looking to collaborate on collaboration
-- 📫 Im reaching out
-- 😄 Pronouns: she/they
-- ⚡ Fun fact: this is a fun fact.
-
+Hi, helau, buna I'm Iulia.
+I'm a international student in the Nederlands beacuse I choose this path.
+I'm romanian: I have a good knowledge in manele and sarmale.
+I speak english, romanian, french, italian and dutch.
+I like data, data maybe likes me.
 <!---
 iuliabac/iuliabac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
