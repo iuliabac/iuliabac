@@ -1,6 +1,6 @@
 ## Hi, helau, bună I'm Iulia, and this is my github page!
 
-- I'm an international student in the Nederlands, and currently doing ICT. Its going alright :)
+- I'm an international student in the Nederlands, and currently doing ICT. Its going somewhere. 
 - I'm romanian.
 - I like data, data hates me. And probably wont ever like me back.
 
